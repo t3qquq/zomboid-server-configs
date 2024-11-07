@@ -185,7 +185,7 @@ SandboxVars = {
     -- 100% 침식하기까지의 일수를 세세하게 설정할 수 있습니다.   -1로 설정하면 침식이 진행되지 않습니다   0으로 설정하면 기본 침식 속도로 진행됩니다.  1=(하루)365=(1년)최대 수치 36500=(100년) 최소 =-1 최대 =36500 기본 =0
     ErosionDays = -1,
     -- 정해진 숫자만큼 경험치 배율을 정합니다. 최소 =0.00 최대 =1000.00 기본 =1.00
-    XpMultiplier = 2.0,
+    XpMultiplier = 4.0,
     -- XP 배율이 패시브 스킬에도 영향을 미칩니다. 예시=근력 체력.
     XpMultiplierAffectsPassive = true,
     -- 자동차 엔진의 일반적인 소음 크기를 설정합니다. 최소 =0.00 최대 =100.00 기본 =1.00
@@ -454,7 +454,7 @@ SandboxVars = {
     -- 2 = 나쁨
     -- 3 = 보통
     -- 4 = 좋음
-    CarGeneralCondition = 2,
+    CarGeneralCondition = 3,
     -- 차량이 손상될 때 받는 차체에 대한 충격량을 설정합니다. 기본값=보통
     -- 1 = 매우 낮음
     -- 2 = 낮음
@@ -466,9 +466,9 @@ SandboxVars = {
     -- 2 = 낮음
     -- 3 = 보통
     -- 4 = 높음
-    DamageToPlayerFromHitByACar = 3,
+    DamageToPlayerFromHitByACar = 2,
     -- 지도의 주요 도로에서 발생하는 교통체증을 만듭니다.
-    TrafficJam = false,
+    TrafficJam = true,
     -- 경보가 울리는 차량을 발견하는 빈도를 정합니다. 기본값=매우 적음
     -- 1 = 없음
     -- 2 = 매우 적음
@@ -592,7 +592,7 @@ SandboxVars = {
         -- 2 = 보통
         -- 3 = 짧음
         -- 4 = 없음
-        Memory = 5,
+        Memory = 2,
         -- 좀비 시야 범위를 정합니다. 기본값=보통
         -- 1 = 매의 눈
         -- 2 = 보통
@@ -626,7 +626,7 @@ SandboxVars = {
         -- 4.0 = 미친듯이 많음, 3.0 = 매우 많음, 2.0 = 많음, 1.0 = 보통, 0.35 = 적음, 0.0 = 없음. 최소 =0.00 최대 =4.00 기본 =1.00
         PopulationMultiplier = 1.0,
         -- 게임 시작시 좀비 수량 배율을 조정합니다. 최소 =0.00 최대 =4.00 기본 =1.00
-        PopulationStartMultiplier = 0.5,
+        PopulationStartMultiplier = 0.3,
         -- 최대 좀비 수량 배율을 조정합니다. 최소 =0.00 최대 =4.00 기본 =1.50
         PopulationPeakMultiplier = 2.0,
         -- 좀비 수량이 최대로 나오기 까지 걸리는 기간을 정할 수 있습니다. 최소 =1 최대 =365 기본 =28
@@ -4659,7 +4659,7 @@ SandboxVars = {
         -- 1 = 바닐라 (더 호환성 있음)
         General_HitModel = 1,
         -- 최소 =0.00 최대 =100.00 기본 =2.40
-        General_DefenderSpawnHourlyChanced = 2.4,
+        General_DefenderSpawnHourlyChanced = 1.0,
         -- 최소 =0.00 최대 =100.00 기본 =0.30
         General_BaseSpawnHourlyChance = 0.3,
         -- 기본값=보통
@@ -5481,7 +5481,7 @@ SandboxVars = {
         -- 플레이어가 행동불능 상태가 되는 시점의 체력. 값을 높게 설정할수록 즉사 가능성은 낮아지지만 더 빠르게 기절됩니다. 최소 =5 최대 =80 기본 =25
         IncapacitatedHealth = 15,
         -- 다른 플레이어의 도움 없이 가사 상태가 지속되는 시간. 싱글플레이의 경우 최소 1시간. 멀티플레이의 경우, 제한시간을 비활성화하고싶으면 0으로 설정할 것. 최소 =0 최대 =240 기본 =6
-        IncapacitatedTime = 4,
+        IncapacitatedTime = 6,
         -- 부활이 완료될때 까지의 시간(틱). 응급처치 레벨에 따라 최대 50%까지 단축됩니다. 최소 =100 최대 =3000 기본 =1200
         AssistedRecoveryTicks = 1200,
         -- 멀티플레이에서 체크가 해제된 경우, 플레이어가 행동불능 상태가 된 후 제한시간이 끝나면 사망합니다. <LINE><LINE>체크가 되어있는 경우나 싱글플레이에서는 플레이어의 체력/근력 이 0이 되지 않는 한 행동불능 상태가 된 플레이어는 제한시간이 끝나면 아무 도움 없이 회복됩니다.
@@ -5489,7 +5489,7 @@ SandboxVars = {
         -- 비활성화된 경우, 플레이어 부활은 체력이나 근력의 영향을 받지 않습니다. <LINE><LINE>활성화 시, 체력이나 근력이 0으로 감소한 행동불능 상태의 플레이어는 제시간 안에 구조되지 않으면 사망합니다. 체력이나 근력이 0이 되면 플레이어는 즉시 사망합니다.
         RecoveryRequiresPassive = true,
         -- 부활 직후의 플레이어가 가지고 있을 HP 양 설정. 최소 =5 최대 =100 기본 =50
-        RecoveryHealth = 30,
+        RecoveryHealth = 40,
         -- 비활성화시 부활 후 부상은 남아 있지만 출혈은 사라집니다. <LINE><LINE>활성화 시 플레이어는 모든 부상이 치유된 상태로 부활됩니다.
         RecoveryRemovesInjuries = false,
         -- 행동불능 상태가 될 떄 잃게되는 신체능력 (체력/근력) 레벨 손실률을 설정합니다. 최소 =0 최대 =100 기본 =50
@@ -5896,6 +5896,21 @@ SandboxVars = {
         -- 물건관리 및 재장전을 제외한 모든 무기 기술. 최소 =0 최대 =10 기본 =7
         LosePacifistSkillLvl = 5,
     },
+    SprinterZones = {
+        -- 해당모드의 코드 실행 빈도를 조절합니다.
+        -- 높게 설정할수록 성능은 높아지지만 신뢰도가 낮아집니다.  최소 =1 최대 =36000 기본 =180
+        TickRate = 180,
+        -- 플레이어로부터 해당 반경 안에 존재하는 좀비들이 스프린터로 변합니다.  최소 =2 최대 =500 기본 =40
+        AreaRadius = 40,
+        -- X축 상에서 영역이 시작되는 좌표를 결정합니다.  최소 =0.00 최대 =999999.00 기본 =0.00
+        StartX = 0.0,
+        -- Y축 상에서 영역이 시작되는 좌표를 결정합니다.  최소 =0.00 최대 =999999.00 기본 =0.00
+        StartY = 0.0,
+        -- X축 상에서 영역이 끝나는 좌표를 결정합니다.  최소 =0.00 최대 =999999.00 기본 =0.00
+        EndX = 300.0,
+        -- Y축 상에서 영역이 끝나는 좌표를 결정합니다.  최소 =0.00 최대 =999999.00 기본 =0.00
+        EndY = 300.0,
+    },
     HTC_EHE_MilitaryDrop = {
         -- 최소 =1 최대 =8640 기본 =168
         TimeBetweenCall = 168,
@@ -5942,7 +5957,7 @@ SandboxVars = {
     },
     AdjustableSafehouse = {
         -- Limits The Claimable Safehouse Area 최소 =1 최대 =2500 기본 =500
-        SquareLimit = 900,
+        SquareLimit = 2500,
         -- 최소 =1 최대 =50 기본 =25
         SliderRange = 50,
         -- Hides The Option When Player Already Has A Safehouse
