@@ -4659,9 +4659,9 @@ SandboxVars = {
         -- 1 = 바닐라 (더 호환성 있음)
         General_HitModel = 1,
         -- 최소 =0.00 최대 =100.00 기본 =2.40
-        General_DefenderSpawnHourlyChanced = 1.0,
+        General_DefenderSpawnHourlyChanced = 0.05,
         -- 최소 =0.00 최대 =100.00 기본 =0.30
-        General_BaseSpawnHourlyChance = 0.3,
+        General_BaseSpawnHourlyChance = 0.05,
         -- 기본값=보통
         -- 1 = 없음
         -- 2 = 미친듯이 적음
@@ -4669,7 +4669,7 @@ SandboxVars = {
         -- 4 = 적음
         -- 5 = 보통
         -- 6 = 많음
-        General_DefenderLootAmount = 6,
+        General_DefenderLootAmount = 7,
         Clan_1_WaveEnabled = true,
         -- 밴딧이 플레이어에게 우호적일 확률. 최소 =0 최대 =100 기본 =50
         Clan_1_FriendlyChance = 0,
@@ -4686,7 +4686,7 @@ SandboxVars = {
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =40
         Clan_1_SpawnDistance = 40,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =9.00
-        Clan_1_SpawnHourlyChance = 0.5,
+        Clan_1_SpawnHourlyChance = 0.1,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =1
         Clan_1_GroupSize = 3,
         -- 집단 성격 기본값=절박한 시민                                                       판데믹의 첫 생존자들입니다. 그들은 기술보다 운이 좋아서 살아남았습니다.
@@ -4724,13 +4724,13 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_2_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =2
-        Clan_2_FirstDay = 2,
+        Clan_2_FirstDay = 7,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =22
         Clan_2_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =42
         Clan_2_SpawnDistance = 42,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =4.00
-        Clan_2_SpawnHourlyChance = 0.125,
+        Clan_2_SpawnHourlyChance = 0.1,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =2
         Clan_2_GroupSize = 2,
         -- 집단 성격 기본값=사이코패스                                                                     다른 사람들이 공포 속에서 죽어가는 동안 두려움이나 고통을 전혀 느끼지 못한 채 루이빌 병원을 떠났습니다.
@@ -4768,13 +4768,13 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_3_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =12
-        Clan_3_FirstDay = 5,
+        Clan_3_FirstDay = 14,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =34
         Clan_3_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =45
         Clan_3_SpawnDistance = 45,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =2.20
-        Clan_3_SpawnHourlyChance = 0.125,
+        Clan_3_SpawnHourlyChance = 0.1,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =4
         Clan_3_GroupSize = 4,
         -- 집단 성격 기본값=식인종                                                                         주로 식칼을 능숙하게 다루는 기술로 살아남았고, 이후에는 고단백 식품을 구해 생존했습니다.
@@ -4812,13 +4812,13 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_4_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =5
-        Clan_4_FirstDay = 5,
+        Clan_4_FirstDay = 21,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =32
         Clan_4_LastDay = 32,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
         Clan_4_SpawnDistance = 50,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =2.50
-        Clan_4_SpawnHourlyChance = 0.0,
+        Clan_4_SpawnHourlyChance = 0.1,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =1
         Clan_4_GroupSize = 2,
         -- 집단 성격 기본값=범죄자                                                                         불필요한 양심이나 도덕적 제약 없이 판데믹 발생 후 새로운 환경에 쉽게 적응했습니다.
@@ -4856,7 +4856,7 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_5_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =17
-        Clan_5_FirstDay = 0,
+        Clan_5_FirstDay = 28,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =41
         Clan_5_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
@@ -4900,7 +4900,7 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_6_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =23
-        Clan_6_FirstDay = 5,
+        Clan_6_FirstDay = 35,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =48
         Clan_6_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
@@ -4944,7 +4944,7 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_7_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =14
-        Clan_7_FirstDay = 14,
+        Clan_7_FirstDay = 42,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =41
         Clan_7_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
@@ -5032,13 +5032,13 @@ SandboxVars = {
         -- 4 = 경비원(생성후 자리를 지킴)
         Clan_9_EnemyBehaviour = 2,
         -- 밴딧 생성을 시작할 생존 일 수 최소 =0 최대 =10000 기본 =35
-        Clan_9_FirstDay = 30,
+        Clan_9_FirstDay = 42,
         -- 밴딧 생성을 종료할 생존 일 수 최소 =0 최대 =10000 기본 =55
         Clan_9_LastDay = 10000,
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
         Clan_9_SpawnDistance = 50,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =0.80
-        Clan_9_SpawnHourlyChance = 0.01,
+        Clan_9_SpawnHourlyChance = 0.0,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =5
         Clan_9_GroupSize = 7,
         -- 집단 성격 기본값=애주가 모임                                                     매일 지역 술집을 방문하면서 그들의 우정이 확고해졌으며 함께 모여 일하면서 생존했습니다.
@@ -5082,7 +5082,7 @@ SandboxVars = {
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
         Clan_10_SpawnDistance = 50,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =0.70
-        Clan_10_SpawnHourlyChance = 0.02,
+        Clan_10_SpawnHourlyChance = 0.0,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =6
         Clan_10_GroupSize = 1,
         -- 집단 성격 기본값=사냥꾼                                                                            사냥 면허가 필요 없는 새로운 사냥 시즌을 기쁘게 맞이한 집단입니다.
@@ -5126,7 +5126,7 @@ SandboxVars = {
         -- 플레이어로부터 밴딧이 생성되는 거리 [칸] 최소 =30 최대 =100 기본 =50
         Clan_11_SpawnDistance = 50,
         -- 시간당 집단이 생성될 확률 최소 =0.00 최대 =100.00 기본 =2.00
-        Clan_11_SpawnHourlyChance = 0.01,
+        Clan_11_SpawnHourlyChance = 0.0,
         -- 생성될 밴딧의 수 최소 =0 최대 =25 기본 =15
         Clan_11_GroupSize = 3,
         -- 집단 성격 기본값=신성 수복자                                                            새로운 십계명을 가진 종교의 한 종파입니다.
