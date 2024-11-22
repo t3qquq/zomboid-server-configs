@@ -84,85 +84,85 @@ SandboxVars = {
     WaterShutModifier = 130,
     -- 최소 =-1 최대 =2147483647 기본 =14
     ElecShutModifier = 130,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     FoodLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     CannedFoodLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     LiteratureLoot = 4,
-    -- 씨앗, 톱, 못, 여러가지 도구, 도구 수리, 낚싯대... 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 씨앗, 톱, 못, 여러가지 도구, 도구 수리, 낚싯대... 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     SurvivalGearsLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     MedicalLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     WeaponLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     RangedWeaponLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     AmmoLoot = 4,
-    -- 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     MechanicsLoot = 4,
-    -- Everything else. Also affects foraging for all items in Town/Road zones. 기본값=적음
-    -- 1 = 없음
-    -- 2 = 미친듯이 적음
-    -- 3 = 매우 적음
-    -- 4 = 적음
-    -- 5 = 보통
-    -- 6 = 많음
+    -- Everything else. Also affects foraging for all items in Town/Road zones. 기본값=적음 (loot x 0.6)
+    -- 1 = 없음 (loot x 0)
+    -- 2 = 미친듯이 적음 (loot x 0.05)
+    -- 3 = 매우 적음 (loot x 0.2)
+    -- 4 = 적음 (loot x 0.6)
+    -- 5 = 보통 (loot x 1.0)
+    -- 6 = 많음 (loot x 2.0)
     OtherLoot = 6,
     -- 세계 온도를 정합니다. 기본값=적당함
     -- 1 = 매우 추움
@@ -499,7 +499,7 @@ SandboxVars = {
     LightBulbLifespan = 0.0,
     -- "내성 항체"  트레잇이 있는 경우, 감염 진행시의 내성 항체 성장 속도를 조절합니다.
     -- 하드코어: 1.39 / 일반: 1.6 / 슈퍼겁쟁이들의 쉼터: 4.0 최소 =1.38 최대 =4.00 기본 =2.00
-    lgd_antibodies_150_general_baseAntibodyGrowth = 2.0,
+    lgd_antibodies_150_general_baseAntibodyGrowth = 3.0,
     -- 무선 신호 활성화 이후, 해당 날짜 안에 탈출 지점에 도달해야합니다.   제한시간을 비활성화하려면 0으로 설정. 최소 =0 최대 =180 기본 =0
     WQS_DeadlineDays_opt = 0,
     -- 탈출 이벤트 기간은 시간 단위입니다.   권장 3~4시간 최소 =3 최대 =48 기본 =3
@@ -528,7 +528,7 @@ SandboxVars = {
     -- 7 = 멀드로 북쪽 창고
     -- 8 = 멀드로 축구장
     -- 9 = 마치 리지 시네마
-    WQS_ZoneMap_opt = 2,
+    WQS_ZoneMap_opt = 4,
     -- 임의 탈출 영역을 선택하면 임의 선택 목록에 포함할 영역을 선택할 수 있습니다.   고정 탈출 영역을 선택하면 이 매개변수는 무시됩니다. 기본값=모든 지역을 포함한 무작위
     -- 1 = 모든 지역을 포함한 무작위
     -- 2 = 루이빌 지역만 랜덤
@@ -597,7 +597,7 @@ SandboxVars = {
         -- 1 = 매의 눈
         -- 2 = 보통
         -- 3 = 잘 안 보임
-        Sight = 2,
+        Sight = 3,
         -- 좀비의 청각 범위를 정합니다. 기본값=보통
         -- 1 = 귀신같이 들림
         -- 2 = 보통
@@ -654,6 +654,7 @@ SandboxVars = {
         AllowVanillaVehicleDismantling = true,
         AllowVanillaWorldItemDismantling = true,
         AllowPowerChadSpawns = true,
+        AllowGreatScottSpawns = true,
         AlLAV300Spawns = true,
         AllowMrBusSpawns = true,
         AllowChonkerSpawns = true,
@@ -662,9 +663,10 @@ SandboxVars = {
         AllowBushmasterSpawns = true,
     },
     RVInterior = {
-        -- Zombies this distance or closer to a player will prevent them from entering vehicle interiors (0 = disabled). 최소 =0 최대 =100 기본 =20
+        -- 유저와 좀비의 거리가 가까우면 캠핑카에 들어 갈수 없습니다.
+        -- (0 = 비활성화) 최소 =0 최대 =100 기본 =20
         SafeZombieDistance = 10,
-        -- Zombies currently chasing the player will prevent them from entering vehicle interiors, no matter the distance.
+        -- 좀비가 유저를 인식한경우 차량 내부로 들어가는 것을 막습니다.
         NotWhenChased = true,
     },
     CF8KSweeper = {
@@ -2835,20 +2837,20 @@ SandboxVars = {
         ZombieAmputationDamageChance = 25,
     },
     USMP = {
-        -- Specifies the probability of encountering Zombies in UCP Gear at Military Bases and at the secret base 최소 =0.00 최대 =100.00 기본 =20.00
+        -- 군용 시설 / 비밀 기지 에서 UCP 위장패턴 장비를 착용한 좀비를 마주칠 확률 조정 최소 =0.00 최대 =100.00 기본 =20.00
         UCP_Zombies = 20.0,
-        -- Specifies the probability of encountering Zombies in UCP Gear across the map, no defined zone 최소 =0.00 최대 =100.00 기본 =0.30
+        -- 맵 전역 / 정의되지 않은 지역에서 UCP 위장패턴 장비를 착용한 좀비를 마주칠 확률 조정 최소 =0.00 최대 =100.00 기본 =0.30
         UCP_Zombies_default = 0.3,
-        -- Specifies the probability of encountering Zombies in OCP Gear at Military Bases and at the secret base 최소 =0.00 최대 =100.00 기본 =0.10
+        -- 군용 시설 / 비밀 기지 에서 OCP 위장패턴 장비를 착용한 좀비를 마주칠 확률 조정 최소 =0.00 최대 =100.00 기본 =0.10
         OCP_Zombies = 0.1,
-        -- Specifies the probability of encountering Zombies in OCP Gear across the map, no defined zone 최소 =0.00 최대 =100.00 기본 =0.05
+        -- 맵 전역 / 정의되지 않은 지역에서 OCP 위장패턴 장비를 착용한 좀비를 마주칠 확률 조정 최소 =0.00 최대 =100.00 기본 =0.05
         OCP_Zombies_default = 0.05,
     },
     zReSA = {
-        -- The recommended number is no lower than the default value.
-        --  Zero value disable spawn.
-        --  Common zombies range from 2000+.
-        --  For example, the golfer zombie (quite rare) has 2000 weight and the park ranger 10000. 최소 =0 최대 =30000 기본 =50
+        -- 기본값보다 내리지 않는 것을 권장합니다.
+        --  0으로 설정시 스폰되지 않습니다.
+        --  일반좀비 스폰량은 2000 이상입니다.
+        --  골퍼 좀비 (희귀함) 스폰량은 2000, 공원경비원은 10000 입니다. 최소 =0 최대 =30000 기본 =50
         SpawnChanceSWAT = 50,
     },
     zReV = {
@@ -2881,21 +2883,21 @@ SandboxVars = {
         chanceToNormal = 30,
     },
     ammomakerOptions = {
-        -- 새똥이 든 냄비에서 질산염을 얼마나 수확할지 기재하세요. 최소 =1 최대 =100 기본 =10
+        -- 새 똥 1통당 질산염 수량 최소 =1 최대 =100 기본 =10
         NitreYield = 10,
-        -- 씨앗 한 개당 새똥을 얼마나 수확할 지 적어주세요. (새 먹이통) 최소 =1 최대 =5 기본 =1
+        -- 새 먹이 1개당 새 똥 수량 최소 =1 최대 =5 기본 =1
         BirdExYield = 1,
-        -- 채집 시 새똥 수확량의 최소치를 적어주세요. 최소 =1 최대 =200 기본 =8
+        -- 탐색 시 생성되는 새 똥의 최소량 최소 =1 최대 =200 기본 =8
         BirdExSpawnMin = 8,
-        -- 채집 시 새똥 수확량의 최대치를 적어주세요. 최소 =1 최대 =200 기본 =24
+        -- 탐색 시 생성되는 새 똥의 최대량 최소 =1 최대 =200 기본 =24
         BirdExSpawnMax = 24,
-        -- 채집 시 깃털 수확량의 최소치를 적어주세요. 최소 =1 최대 =10 기본 =1
+        -- 탐색 시 생성되는 새 깃털의 최소량 최소 =1 최대 =10 기본 =1
         BirdFeatherSpawnMin = 1,
-        -- 채집 시 깃털 수확량의 최대치를 적어주세요. 최소 =1 최대 =10 기본 =3
+        -- 탐색 시 생성되는 새 깃털의 최대량 최소 =1 최대 =10 기본 =3
         BirdFeatherSpawnMax = 3,
-        -- 탄약 만들기의 숯 레시피를 비활성화합니다
+        -- 탄약 제조기의 숯 제조법을 비활성화합니다
         DeactivateCharcoalRecipes = false,
-        -- 탄약 만들기의 궁술 관련 부품을 활성화합니다
+        -- 탄약 제조기에서 활쏘기 구성 요소를 활성화합니다
         ActivateArchery = false,
     },
     MoreBrews = {
@@ -3038,19 +3040,19 @@ SandboxVars = {
         KillsTrack = 0,
     },
     Kamer_ShowWallHealth = {
-        -- <H2><ORANGE>Choose visiblity mode <CENTRE><TEXT><BR>Everyone - everyone can see menu, <LINE>Admin Only - admins/debug can see menu, <LINE>Disable - no one can see menu, <LINE> 기본값=Everyone
-        -- 1 = Everyone
-        -- 2 = Admin Only
+        -- <H2><ORANGE>표시 모드 선택 <CENTRE><TEXT><BR>모두 - 모든 플레이어가 메뉴를 볼 수 있음, <LINE>관리자만 - 관리자/디버그만 메뉴를 볼 수 있음, <LINE>비활성화 - 누구도 메뉴를 볼 수 없음, <LINE> 기본값=모두
+        -- 1 = 모두
+        -- 2 = 관리자만
         visibility = 1,
-        -- <H2><ORANGE>Choose menu position <CENTRE><TEXT><BR>First - first on the list, <LINE>Middle - in between list, <LINE>Last - last on the list, <LINE>Above Repair Wall - first if 'Repair wall' mod is not enable, <LINE> 기본값=Above Repair Wall
-        -- 1 = First
-        -- 2 = Last
+        -- <H2><ORANGE>메뉴 위치 선택 <CENTRE><TEXT><BR>처음 - 목록의 첫 번째, <LINE>중간 - 목록 중간, <LINE>마지막 - 목록의 마지막, <LINE>수리 벽 위 - '벽 수리' 모드가 활성화되지 않으면 첫 번째, <LINE> 기본값=수리 벽 위
+        -- 1 = 처음
+        -- 2 = 마지막
         position = 3,
-        -- <H2><ORANGE>Choose to show '?' icon
+        -- <H2><ORANGE>'?' 아이콘을 표시할지 선택
         showIcons = true,
     },
     AutoMechanics = {
-        -- Accepted risk percentage of losing part condition. <LINE> 0 (default - recommended for public servers) will protect your vehicles parts conditions. <LINE> 100 let players do whatever they want (recommended for private servers). <LINE> Only active on multiplayer clients or solo users with Verbose on. 최소 =0 최대 =100 기본 =0
+        -- 부품 손상 허용 위험 비율입니다. <LINE> 0 (기본값 - 공용 서버에 권장)으로 설정하면 차량 부품의 손상을 방지합니다. <LINE> 100으로 설정하면 플레이어가 자유롭게 행동할 수 있습니다(개인 서버에 권장). <LINE> 멀티플레이 클라이언트에서만 활성화되거나 Verbose가 켜진 솔로 플레이어에게만 적용됩니다. 최소 =0 최대 =100 기본 =0
         ConditionLossPercentageThreshold = 0,
     },
     BasementAddOptions = {
@@ -3106,6 +3108,534 @@ SandboxVars = {
         -- 0 = Success for sure, the higher the number, the less chance there will be of succeeding in forcing the padlock, 1 = one chance in two, 10 = one chance in ten of succeeding. 최소 =0 최대 =1000 기본 =10
         chanceToSucceedBreakPadlockAction = 10,
     },
+    BuildingMenu = {
+        -- 건축 메뉴를 사용해서 제작한 건축물을 좀비가 파괴할 수 없게 하려면 <RGB:1,0.8,0> <SPACE> <SPACE> 체크 해제 <SPACE> <SPACE> <RGB:1,1,1> 하세요.
+        isThumpable = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox1 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        WallsCategoryDivider = false,
+        -- 나무 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        woodWallsSubCategory = true,
+        -- 판자 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        clapboardWallsSubCategory = true,
+        -- 돌 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        stoneWallsSubCategory = true,
+        -- 벽돌 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        brickWallsSubCategory = true,
+        -- 시멘트블록 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        cinderblockWallsSubCategory = true,
+        -- 채색된 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        paintedWallsSubCategory = true,
+        -- 아치형 창문틀을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        archedWindowWallsSubCategory = true,
+        -- 상업용 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        commercialWallsSubCategory = true,
+        -- 산업용 벽을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        industrialWallsSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox2 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        RoofsCategoryDivider = false,
+        -- 지붕을 추가합니다. 슁글, 쉐이크 슁글, 유리 등이 포함됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roofsCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox3 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        DoorsCategoryDivider = false,
+        -- 나무 문, 낮은 문, 울타리 문, 금속 문, 유리 문을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        doorsSubCategory = true,
+        -- 3타일 및 4타일 차고 문을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        garageDoorsSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox4 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        ArchitecturePlusCategoryDivider = false,
+        -- 문틀 장식, 천장 마감, 모서리 마감, 바닥 마감 및 나무 마감 등을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        architecturePlusCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox5 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        WindowsCategoryDivider = false,
+        -- 창문을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        windowsCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox6 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        FencingCategoryDivider = false,
+        -- 대형 울타리를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        highFencesSubCategory = true,
+        -- 울타리와 난간을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        lowAndRailingFencesSubCategory = true,
+        -- HESCO 방호벽, 금속 울타리, 벽돌 울타리 등을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        otherFencesSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox7 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        FloorsCategoryDivider = false,
+        -- 울타리와 난간을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        floorsCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox8 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        StairsCategoryDivider = false,
+        -- 계단을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        stairsCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox9 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        RoadworkCategoryDivider = false,
+        -- 아스팔트를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roadworkAsphaltSubCategory = true,
+        -- 얼룩 및 균열과 같은 장식을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roadworkOverlaysSubCategory = false,
+        -- 보행자 경계석을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roadworkSidewalkEdgeSubCategory = false,
+        -- 흙과 풀 바닥을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roadworkDirtandGrassSubCategory = false,
+        -- 도로 경계선을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        roadworkPaintedRoadMarkingsSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox10 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        ContainersCategoryDivider = false,
+        -- 카운터, 상단 카운터를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        kitchenCountersSubCategory = true,
+        -- 식당, 카페, 주점, Diner를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        commercialCountersSubCategory = true,
+        -- 간단한 상자, 군용 상자(100 용량), 종이 상자를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        cratesSubCategory = true,
+        -- 금속 선반, 대형 금속 선반, 사물함을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        metalContainersSubCategory = true,
+        -- 스탠드 옷걸이 및 마네킹을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        clothesRacksSubCategory = false,
+        -- 휴지통을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        trashCansSubCategory = true,
+        -- 기타 보관함을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        containersOthersSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox11 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        RecreationalCategoryDivider = false,
+        -- 주크박스와 피아노를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        musicSubCategory = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox12 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        FurnitureCategoryDivider = false,
+        -- 탁자와 대형 탁자를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        tablesSubCategory = false,
+        -- 침대와 대형 침대를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        bedsSubCategory = false,
+        -- 벤치, 소파, 의자를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        seatingFurnitureSubCategory = false,
+        -- 책장을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        bookshelvesSubCategory = true,
+        -- 옷장, 서랍, 화장대를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        dressersAndWardrobesSubCategory = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox13 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        DecorationsCategoryDivider = false,
+        -- 러그를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        rugsSubCategory = true,
+        -- 커튼을 추가하려면 활성화하세요. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요!
+        curtainsSubCategory = false,
+        -- 포스터 및 표지판을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        postersAndSignsSubCategory = false,
+        -- 그래피티를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        graffitiSubCategory = false,
+        -- 도로 장식, 우체통, 도로 차단기, 트래픽 콘, 우편함과 같은 기타 장식을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        otherDecorationsSubCategory = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox14 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        VegetationCategoryDivider = false,
+        -- 꽃밭을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        flowerBedsSubCategory = true,
+        -- 화분 등의 실내 식물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        indoorPlantsSubCategory = true,
+        -- 야외 화훼 등의 야외 식물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        outdoorPlantsSubCategory = true,
+        -- 잔디, 생 울타리, 벽 덩굴 등을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        landscapingSubCategory = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox15 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        SurvivalCategoryDivider = false,
+        -- 벽난로 및 벽난로 장식을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        fireplaceSubCategory = false,
+        -- 발전기를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        generatorSubCategory = false,
+        -- 금속 드럼통을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        metalDrums = false,
+        -- 우물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        waterWell = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox16 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        AppliancesCategoryDivider = false,
+        -- 조명을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        lightingAppliances = false,
+        -- 싱크대, 변기 등의 욕실 관련 기기를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        bathroomAppliances = false,
+        -- 난로, 오븐 등의 주방 관련 가전을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        cookingAppliances = false,
+        -- 냉장고, 냉동고 등의 가전을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        fridgeAppliances = false,
+        -- 세탁기, 건조기 등의 세탁 가전을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        laundryAppliances = false,
+        -- 이는 줄 구분 기호일 뿐이므로 확인하면 아무런 효과가 없습니다.
+        DaddyDirkieCategoryDivider = false,
+        -- Daddy Dirkie 가구를 추가할 수 있습니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요!
+        daddyDirkieFurniture = true,
+        -- 흙, 모래, 아스팔트 경사로를 추가할 수 있습니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 들어가서 변경 사항을 저장하세요!
+        daddyDirkieRoadworkRamps = false,
+        -- 비밀 입구를 추가할 수 있습니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요!
+        daddyDirkieSecretEntrances = true,
+        -- 숲 생존 구조를 추가할 수 있습니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요!
+        daddyDirkieForestSurvival = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        DylanCategoryDivider = false,
+        -- 장애물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        dylanBarricades = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        MelosTilesCategoryDivider = false,
+        -- 성 구조물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        melosTilesCastleWalls = true,
+        -- 욕실 구조물을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        melosTilesBathroomWalls = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        PertsPartyCategoryDivider = false,
+        -- 생강과자 구조물 및 크리스마스 조명 등을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        pertsPartyChristmas = true,
+        -- 할로윈 장식을 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        pertsPartyHalloween = true,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        SimonMDCategoryDivider = false,
+        -- 비밀 통로를 추가합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다!
+        simonMDSecretEntrances = true,
+        -- 이것은 단순한 구분선입니다. 체크해도 아무런 효과가 없습니다.
+        TryHonestyCategoryDivider = false,
+        -- 차이나타운 오브젝트를 추가하려면 활성화하세요. <LINE><LINE> <RGB:1,0,0> 변경 사항을 적용하려면 저장 후 다시 들어오세요!
+        tryHonestyChinatown = true,
+    },
+    BuildingMenuRecipes = {
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        MaterialsDivider = false,
+        -- 레시피에서 페인트를 제거하려면 비활성화하세요. 페인트만 재료로 사용하는 레시피는 그대로 유지됩니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요! <RGB:1,1,1><LINE>
+        usePaint = true,
+        -- 페인트 통 한 개의 최대 사용 횟수를 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 기본값=10
+        -- 1 = 4
+        -- 2 = 8
+        -- 3 = 10
+        -- 4 = 14
+        -- 5 = 18
+        -- 6 = 22
+        -- 7 = 26
+        -- 8 = 28
+        -- 9 = 45가지 용도
+        -- 10 = 60번의 용도
+        -- 11 = 80번의 용도
+        -- 12 = 100번의 용도
+        paintUses = 3,
+        -- 용접용 프로판 토치 한 개의 최대 사용 횟수를 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 기본값=10
+        -- 1 = 4
+        -- 2 = 8
+        -- 3 = 10
+        -- 4 = 14
+        -- 5 = 18
+        -- 6 = 22
+        -- 7 = 26
+        -- 8 = 28
+        -- 9 = 45가지 용도
+        -- 10 = 60번의 용도
+        -- 11 = 80번의 용도
+        -- 12 = 100번의 용도
+        blowTorchUses = 3,
+        -- 양동이 (아스팔트) 한 개의 최대 사용 횟수를 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 기본값=10
+        -- 1 = 4
+        -- 2 = 8
+        -- 3 = 10
+        -- 4 = 14
+        -- 5 = 18
+        -- 6 = 22
+        -- 7 = 26
+        -- 8 = 28
+        -- 9 = 45가지 용도
+        -- 10 = 60번의 용도
+        -- 11 = 80번의 용도
+        -- 12 = 100번의 용도
+        bucketAsphaltMixtureUses = 3,
+        -- 양동이 (콘크리트) 한 개의 최대 사용 횟수를 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 기본값=10
+        -- 1 = 4
+        -- 2 = 8
+        -- 3 = 10
+        -- 4 = 14
+        -- 5 = 18
+        -- 6 = 22
+        -- 7 = 26
+        -- 8 = 28
+        -- 9 = 45가지 용도
+        -- 10 = 60번의 용도
+        -- 11 = 80번의 용도
+        -- 12 = 100번의 용도
+        bucketConcreteUses = 3,
+        -- 건축 메뉴를 통해 일반 벽을 만들 때 필요한 판자의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =6
+        bigWallWoodCount = 6,
+        -- 건축 메뉴를 통해 일반 벽을 만들 때 필요한 못의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =6
+        bigWallNailsCount = 6,
+        -- 건축 메뉴를 통해 작은 벽을 만들 때 필요한 판자의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =3
+        smallWallWoodCount = 3,
+        -- 건축 메뉴를 통해 작은 벽을 만들 때 필요한 못의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        smallWallNailsCount = 4,
+        -- 건축 메뉴를 통해 일반 건축물을 만들 때 필요한 판자의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =6
+        bigObjectsWoodCount = 6,
+        -- 건축 메뉴를 통해 일반 건축물을 만들 때 필요한 못의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =8
+        bigObjectsNailsCount = 8,
+        -- 건축 메뉴를 통해 작은 건축물을 만들 때 필요한 판자의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        smallObjectsWoodCount = 4,
+        -- 건축 메뉴를 통해 작은 건축물을 만들 때 필요한 못의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =6
+        smallObjectsNailsCount = 6,
+        -- 건축 메뉴를 통해 만들 때 필요한 유리판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =2
+        glassPaneCount = 2,
+        -- 건축 메뉴를 통해 만들 때 필요한 금속 막대의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        metalBarsCount = 4,
+        -- 건축 메뉴를 통해 만들 때 필요한 나사의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =10
+        screwsCount = 10,
+        -- 울타리에 필요한 고철을 설정합니다. <LINE> 객체 크기 및 유형에 따라 크기가 조정됩니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요! <RGB:1,1,1> 최소 =1 최대 =100 기본 =10
+        scrapMetalCountForFences = 10,
+        -- 전기용품에 필요한 고철을 설정합니다. <LINE> 객체 크기 및 유형에 따라 크기가 조정됩니다. <LINE><LINE> <RGB:1,0,0> 종료하고 다시 입력하여 변경 사항을 적용하세요! <RGB:1,1,1> 최소 =1 최대 =100 기본 =5
+        scrapMetalCountForElectrical = 5,
+        -- 건축 메뉴를 통해 벽을 만들 때 필요한 금속판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =5
+        sheetMetalCountForWalls = 5,
+        -- 건축 메뉴를 통해 문을 만들 때 필요한 금속판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        sheetMetalCountForDoors = 4,
+        -- 건축 메뉴를 통해 보관함을 만들 때 필요한 금속판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        sheetMetalCountForContainers = 4,
+        -- 건축 메뉴를 통해 기타 기기 및 가전제품을 만들 때 필요한 금속판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =4
+        sheetMetalCountForFixturesAndAppliances = 4,
+        -- 건축 메뉴를 통해 지붕 및 바닥을 만들 때 필요한 금속판의 수량을 설정합니다.
+        -- 건축물에 따라 필요한 수량이 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =1
+        sheetMetalCountForRoofingAndFloors = 1,
+        -- Sets small metal sheet needed for ROOFING and FLOORS. <LINE> Scales with object size and type. <LINE><LINE> <RGB:1,0,0> EXIT AND REENTER SAVE TO APPLY CHANGES! <RGB:1,1,1> 최소 =1 최대 =100 기본 =2
+        smallSheetMetalCountForRoofingAndFloors = 2,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox1 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        SkillsDivider = false,
+        -- 건축 메뉴를 통해 일반 건축물을 만들 때 필요한 최소 목공 기술을 설정합니다.
+        -- 건축물에 따라 필요한 단계가 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =10 기본 =5
+        bigObjectsCarpentrySkill = 5,
+        -- 건축 메뉴를 통해 작은 건축물을 만들 때 필요한 최소 목공 기술을 설정합니다.
+        -- 건축물에 따라 필요한 단계가 변경됩니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =10 기본 =4
+        smallObjectsCarpentrySkill = 4,
+        -- 건축 메뉴를 통해 건축물을 만들 때 얻는 목공 경험치 배율을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =0.05 최대 =100.00 기본 =2.50
+        carpentryXpPerLevel = 2.5,
+        -- 건축 메뉴를 통해 건축물을 만들 때 얻는 금속용접 경험치 배율을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =0.05 최대 =100.00 기본 =3.50
+        metalweldingXpPerLevel = 3.5,
+        -- 건축 메뉴를 통해 건축물을 만들 때 얻는 전기공학 경험치 배율을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =0.05 최대 =100.00 기본 =5.00
+        electricalXpPerLevel = 5.0,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        EmptyBox2 = false,
+        -- 이것은 단순한 구분선일 뿐이며 선택해도 영향을 미치지 않습니다.
+        SpecialObjectsRecipesDivider = false,
+        -- 우물에 들어 있는 물의 최대 수치를 설정합니다. 최소 =1 최대 =9998 기본 =1500
+        maxWaterWellStorageAmount = 1500,
+        -- 비가 오는 동안 우물에 추가되는 물의 양에 대한 승수입니다. 최소 =0.10 최대 =10.00 기본 =1.00
+        waterWellRainIntensityMul = 1.0,
+        -- 매 시간마다 우물에 추가되는 물의 양 범위입니다. 예를 들어 '1;5'는 1과 5 사이의 난수를 생성하고, '5'는 항상 5단위의 물을 생성합니다. 기본값=1;5
+        waterWellHourlyRefillRateInterval = "1;5",
+        -- 건축 메뉴를 통해 군용 상자를 만들 때 필요한 판자의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =15
+        plankCountForMilitaryCrate = 15,
+        -- 건축 메뉴를 통해 군용 상자를 만들 때 필요한 못의 수량을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =100 기본 =10
+        nailsCountForMilitaryCrate = 10,
+        -- 건축 메뉴를 통해 군용 상자를 만들 때 필요한 목공 기술을 설정합니다.
+        -- 
+        -- <RGB:1,0,0>설정을 적용하려면 게임을 재시작해야 합니다! <RGB:1,1,1> 최소 =1 최대 =10 기본 =9
+        militaryCrateCarpentrySkill = 9,
+    },
     CommonSense = {
         -- 플레이어들이 문, 창문 등을 쇠지렛대를 사용하여 딸 수 있는지 켜거나 끕니다. 
         PryingMechanic = true,
@@ -3152,7 +3682,7 @@ SandboxVars = {
         LootTable = "",
     },
     CropsNeverRot = {
-        -- Instead of rotting, the game will check for diseases every X amount of hours 최소 =6.00 최대 =999999.00 기본 =48.00
+        -- 부패 대신, 게임은 매 X 시간마다 질병을 확인합니다 최소 =6.00 최대 =999999.00 기본 =48.00
         DiseaseCheckTime = 48.0,
     },
     CustomizableAmmo = {
@@ -3715,7 +4245,7 @@ SandboxVars = {
         StrengthImpact = true,
         -- 최소 =0 최대 =10 기본 =1
         MinimumStrengthLevelToHunt = 1,
-        -- 근접 무기로 사냥 시 필요한 최소 강도 레벨입니다. 최소 =0 최대 =10 기본 =10
+        -- 사냥을 할 수 없게 되는 것이 아니라 목표물을 타격하기 위해 최대 근력 영향 값에 도달하는 데 필요한 레벨을 정의합니다. 최소 =0 최대 =10 기본 =10
         MaximumStrengthLevelToHunt = 10,
         -- 사냥에 필요한 최소 근력 수준일 경우, 근력이 사냥 성공 확률에 미치는 영향입니다. 최소 =0 최대 =500 기본 =50
         MinimumStrengthImpact = 50,
@@ -3918,36 +4448,36 @@ SandboxVars = {
         DontSaveWhileReading = false,
     },
     FWOFitness = {
-        -- Take the inital perk bonus into account (75% 100% 125%)
+        -- 초기 특성 보너스를 고려 (75% 100% 125%)
         InitialPerkBonus = true,
-        -- Get a bonus for the current excercise depending on the regularity
+        -- 현재 운동의 규칙성에 따라 보너스를 얻습니다
         currentExerciseRegularityBonus = true,
-        -- The 0 point for the linear calculation 최소 =0 최대 =100 기본 =25
+        -- 선형 계산을 위한 기준점 최소 =0 최대 =100 기본 =25
         currentExerciseOffset = 25,
-        -- The steepness of the linear angle (higher number = higher multiplier)(and higher negatives with offset) 최소 =0.01 최대 =100.00 기본 =5.00
+        -- 선형 각도의 기울기 (높은 수치 = 높은 배율)(그리고 오프셋이 있는 경우 더 높은 음수) 최소 =0.01 최대 =100.00 기본 =5.00
         currentExerciseRate = 5.0,
-        -- Get a bonus depending on the average of all your excercises regularity 최소 =0.00 최대 =100.00 기본 =6.00
+        -- 모든 운동의 평균 규칙성에 따라 보너스를 얻습니다 최소 =0.00 최대 =100.00 기본 =6.00
         AverageExerciseRegularityBonus = 6.0,
-        -- How much multiplier you get per perk level 최소 =0.00 최대 =100.00 기본 =0.30
+        -- 특성 레벨당 얼마나 많은 배율을 얻는지 최소 =0.00 최대 =100.00 기본 =0.30
         LevelBonus = 0.3,
-        -- Get an exp buff when you space out excercises (about 8hr or when muscle soreness sets in) independent for fitness and strength
+        -- 운동 간격을 두면 경험치 버프를 얻습니다 (약 8시간 또는 근육통이 생길 때) 피트니스와 근력에 독립적으로 적용
         SpaceOutExercise = true,
         -- 최소 =0.00 최대 =100.00 기본 =0.90
         SpaceOutExerciseNegative = 0.9,
-        -- Get an exp debuff when you have muscle soreness, buff when 'rested' (no muscle soreness)
+        -- '근육통 없음' 상태일 때 경험치 버프를 얻고, 근육통일 때 디버프를 얻습니다
         RestedBonus = true,
         -- 최소 =0.00 최대 =10.00 기본 =0.90
         RestedBonusNegative = 0.9,
-        -- Global exp multiplier (makes you earn experience faster or slower, small increments recommanded) 최소 =0.01 최대 =10.00 기본 =1.00
+        -- 전체 경험치 배율 (경험치를 더 빠르거나 느리게 획득하도록 설정, 소폭 증가 추천) 최소 =0.01 최대 =10.00 기본 =1.00
         XPMultiplier = 1.0,
-        -- Determens how much multiplier you get outside of doing exercises. EG. fighting,sprinting,...  (0 = OFF No passive exp multiplier) 최소 =0.00 최대 =10.00 기본 =1.00
+        -- 운동 외부에서 얼마나 많은 배율을 얻는지 결정. 예: 전투, 전력질주 등 (0 = 패시브 경험치 배율 없음) 최소 =0.00 최대 =10.00 기본 =1.00
         PassiveMultiplier = 1.0,
-        -- adjust Boredom reduction gained (0 = off) 최소 =0.00 최대 =10.00 기본 =1.00
+        -- 얻는 지루함 감소 조정 (0 = 꺼짐) 최소 =0.00 최대 =10.00 기본 =1.00
         BoredomMultiplier = 1.0,
-        -- adjust Unhappyness reduction gained (0 = off) 최소 =0.00 최대 =10.00 기본 =1.00
+        -- 얻는 불행 감소 조정 (0 = 꺼짐) 최소 =0.00 최대 =10.00 기본 =1.00
         UnhappynessMultiplier = 1.0,
         DropBags = false,
-        KeepBagsOn = false,
+        KeepBagsOn = true,
     },
     FWOWorkingTreadmill = {
         -- 최소 =0.00 최대 =100.00 기본 =1.00
@@ -3965,11 +4495,11 @@ SandboxVars = {
         ForceAdminOnly = true,
     },
     FuelAPI = {
-        -- The maximum amount of fuel a barrel can contain. 최소 =100.00 최대 =5000.00 기본 =400.00
+        -- 배럴이 담을 수 있는 최대 연료량입니다. 최소 =100.00 최대 =5000.00 기본 =400.00
         BarrelMaxCapacity = 400.0,
-        -- The percentage of initial random fuel found in barrels. 최소 =0.00 최대 =1.00 기본 =0.50
+        -- 배럴에서 발견될 초기 연료(백분율)입니다. 최소 =0.00 최대 =1.00 기본 =0.50
         BarrelRandomQuantityPercent = 0.5,
-        -- Allow picking up barrel that contain fuel.
+        -- 연료가 들어있는 배럴을 운반할 수 있습니다.
         BarrelCanPickupFull = false,
     },
     HeadWearWontFall = {
@@ -4299,15 +4829,15 @@ SandboxVars = {
         MaxDistance = -1,
     },
     KillCount = {
-        -- May provoke stutters.
+        -- 지연을 유발할 수 있음.
         doExport = false,
-        -- Includes all kills into the final value in Post Death floating text.
+        -- 모든 킬을 죽음 후 부동 텍스트의 최종 값에 포함합니다.
         includePostDeathUI = true,
-        -- Target time (in milliseconds) between two updates in multiplayer. Small value gives reactivity. High value reduces network use and server workload. 최소 =0 최대 =10000000 기본 =500
+        -- 멀티플레이어에서 두 업데이트 사이의 목표 시간(밀리초 단위). 작은 값은 반응성을 제공합니다. 높은 값은 네트워크 사용과 서버 작업량을 줄입니다. 최소 =0 최대 =10000000 기본 =500
         MaxUpdateDelay = 500,
-        -- Each client can see every character score. Deactivate on (very large) servers to reduce Global Mod Data transfer load.
+        -- 각 클라이언트는 모든 문자 점수를 볼 수 있습니다. (매우 큰) 서버에서 비활성화하여 전역 모드 데이터 전송 로드를 줄입니다.
         shareOnServer = true,
-        -- Dead characters are kept and count toward server kills. Deactivate for server that never wipe.
+        -- 죽은 캐릭터는 유지되고 서버킬에 카운트됩니다. 절대 지워지지 않는 서버에 대해 비활성화합니다.
         keepTrackOfDead = true,
     },
     LSComfort = {
@@ -4405,9 +4935,9 @@ SandboxVars = {
         DanceAnim = false,
     },
     MGRS = {
-        -- 기본값=Alpha-Numeric
-        -- 1 = Alpha-Numeric
-        -- 2 = Numeric-Numeric
+        -- 기본값=알파벳-숫자
+        -- 1 = 알파벳-숫자
+        -- 2 = 숫자-숫자
         style = 1,
     },
     MoreBuilds = {
@@ -4428,113 +4958,6 @@ SandboxVars = {
         ShowTooltipOnBait = true,
         -- 인벤토리에 있는 함정에 마우스를 가져다대면 확장된 툴팁 정보가 표시됩니다.
         ShowTooltipOnTrap = true,
-    },
-    RebalancedCalorieBurning = {
-        -- This value is multiplied to the overall caloric burn rate. Warning: This stacks with the more specific multipliers. 최소 =0.00 최대 =100.00 기본 =1.00
-        CalorieMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        IdleMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        WalkingMultiplier = 1.3,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        RunningMultiplier = 1.5,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        SprintingMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        AsleepMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        SittingMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        TimedActionMultiplier = 1.0,
-        -- 최소 =0.00 최대 =100.00 기본 =1.00
-        CarryMultiplier = 1.0,
-    },
-    SleepWithFriends = {
-        -- Choose if Sleep Length is being set to real-time minutes or in-game hours. 기본값=Real-Time Minutes
-        -- 1 = Real-Time Minutes
-        RTorIG = 1,
-        -- Average time spent sleeping when fully fatigued.
-        SleepLength = "2.0",
-        -- Determines how fast endurance is recovered while sleeping. 1 is the same rate as fatigue, 1.5 is one and a half times as fast, 2 is twice as fast, etc.
-        EndurMulti = "2.0",
-        -- Set if the AutoWake feature is enabled. 기본값=True
-        -- 1 = True
-        AutoWake = 1,
-    },
-    TrueCrawl = {
-        -- 로컬 또는 전용 서버를 호스팅하는 경우에만 이 옵션을 사용하십시오. (문제를 방지하려면). [기본값은 False]입니다. 
-        StealhModeServer = true,
-        -- 스텔스 모드를 켜거나 끕니다. 만약, 끈다면 기본 게임의 시스템만을 사용합니다. [기본값은 켬].
-        StealhModeEnable = true,
-        -- 스텔스를 무들로 표시할지 설정합니다. (스텔스 모드가 켜진 상태에서만 동작합니다!) [기본값은 켬]. 
-        MoodleEnable = false,
-        -- 차량 밑으로 기어갈수 있도록 설정합니다.(반드시 기어가기 상태이어야 합니다!) [기본값은 켬, 기본 키는 Shift]. 
-        CrawlUnderVehiclesEnable = true,
-        -- 현실적인 지구력 모드를 토글합니다. 이 모드는 크롤링할 수 있는 양을 제한하여 게임 몰입도를 향상시킵니다. [기본값은 참입니다]. 
-        RealisticEndurance = true,
-        -- 좀비에게 발각되는 경우 자동적으로 기어가기 자세에서 벗어납니다. [기본값은 끔]. 
-        CancelCrawlWhenSpotted = false,
-        -- 이 수치는 플레이어가 기어가기 상태에서 좀비의 시야범위를 나타냅니다. 1(매우 작음) 에서 20(매우 멀음)사이의 값으로 조정할 수 있습니다. 기본값은 5 (중간 범위)입니다. 개인적인 추천은 좀 더 몰입감있는 게임플레이를 위해 5-10 사이의 값으로 설정하는 것입니다. 최소 =1 최대 =20 기본 =5
-        ZombieRadius = 2,
-    },
-    UnderCoverOfDarkness = {
-        -- The zombie sight level set under normal conditions. 기본값=Normal
-        -- 1 = Eagle
-        -- 2 = Normal
-        NormalZombieSight = 2,
-        -- The zombie sight level set during night or fog. 기본값=Poor
-        -- 1 = Eagle
-        -- 2 = Normal
-        ReducedZombieSight = 3,
-        -- The minimum darkness level for zombie vision to be reduced. 기본값=Pitch Black
-        -- 1 = Low Light
-        -- 2 = Dark
-        MinimumDarknessLevel = 3,
-        -- The minimum fog intensity for zombie vision to be reduced. 최소 =0.00 최대 =1.00 기본 =0.10
-        MinimumFogIntensity = 0.1,
-    },
-    VehicleRecycling = {
-        -- 차량을 해체하기 전에 후드, 트렁크 문, 문, 창문, 좌석 등의 부품을 제거해야 할지 설정.
-        UninstallParts = false,
-        -- 최소 =1 최대 =100 기본 =1
-        ActionTimeMultiplier = 1,
-    },
-    VehicleRepairOverhaul = {
-        DisableVehicleSalvage = true,
-    },
-    WhereAmI = {
-        -- If enabled, the region indicator will not appear at all when a Player is outside any known regions. 
-        HideUIOffRegion = false,
-    },
-    wyweight = {
-        -- For every 100 of these values, add 158 weights 최소 =0 최대 =1000 기본 =0
-        extraweight = 2,
-    },
-    FancyHandwork = {
-        -- Player Firearm Level to change to Tactical Aiming animation. <LINE> Set to 0 to always use this.  Set to 11 to never. 최소 =0 최대 =11 기본 =3
-        ExperiencedAim = 3,
-        -- When the character is not moving, they will turn to face an object they are interacting with after this many seconds. <LINE> Requires Turn Delay to be enabled. 최소 =0.01 최대 =60.00 기본 =1.00
-        TurnDelaySec = 1.0,
-        -- Controls when your character is forced to turn to objects when performing the World Interaction 기본값=Do forced turn after turn delay
-        -- 1 = Never do forced turn
-        -- 2 = Do forced turn after turn delay
-        DisableTurn = 2,
-        -- Choose how often characters play the Rear Animations instead of Turning. <LINE> Notes: Character will still turn to objects that do not have a rear animation unless forced turn is disabled. <LINE> Turn delay or disabled turns must be selected to show rear animations. 'Always do forced turn' prevents rear animations. 기본값=Do rear animations until turn delay
-        -- 1 = Never do rear animations
-        -- 2 = Do rear animations until turn delay
-        TurnBehavior = 2,
-        -- Hides the progress bar when a character is opening or closing a door, and when entering or exiting a vehicle.
-        HideDoorProgressBar = false,
-        -- Hides the progress bar when a character is walking to a location to interact with a vehicle.
-        HideVehicleWalkProgressBar = false,
-    },
-    BrutalHandwork = {
-        -- When a player is dual-wielding melee weapons, automatically alternate between left and right attacks. Disable to require the Modifier to be pressed for an offhand attack.
-        DualWieldMelee = true,
-        -- Even when a player is unarmed, they will be able to attack. By default, must be aiming and holding the Modifier key to punch.
-        EnableUnarmed = true,
-        -- When a player is unarmed, always raise their fists when aiming for unarmed attacks.  Disable to require the Modifier to be held when aiming.
-        AlwaysUnarmed = true,
     },
     OffroadGoBrrr = {
         -- 오프로드 동작 변경 활성화
@@ -4565,6 +4988,88 @@ SandboxVars = {
     ProxInv = {
         -- 활성화시 좀비 루팅시에만 프록시미티 인벤토리 모드를 작동시킵니다.
         ZombieOnly = false,
+    },
+    RebalancedCalorieBurning = {
+        -- 이 값은 전체 칼로리 연소율에 곱해집니다.
+        -- 경고: 이것은 보다 구체적인 배수와 함께 쌓입니다. 최소 =0.00 최대 =100.00 기본 =1.00
+        CalorieMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        IdleMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        WalkingMultiplier = 1.3,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        RunningMultiplier = 1.5,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        SprintingMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        AsleepMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        SittingMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        TimedActionMultiplier = 1.0,
+        -- 최소 =0.00 최대 =100.00 기본 =1.00
+        CarryMultiplier = 1.0,
+    },
+    SleepWithFriends = {
+        -- 수면 길이가 실제 시간 분으로 설정될지 게임 내 시간으로 설정될지 선택합니다. 기본값=실제 시간 분
+        -- 1 = 실제 시간 분
+        RTorIG = 1,
+        -- 완전히 피로했을 때 평균적으로 자는 시간입니다.
+        SleepLength = "2.0",
+        -- 수면 중 지구력이 회복되는 속도를 결정합니다. 1은 피로와 동일한 속도, 1.5는 1.5배 빠르며, 2는 두 배 빠릅니다.
+        EndurMulti = "2.0",
+        -- 자동 기상 기능이 활성화되어 있는지 설정합니다. 기본값=활성화
+        -- 1 = 활성화
+        AutoWake = 1,
+    },
+    TrueCrawl = {
+        -- 로컬 또는 전용 서버를 호스팅하는 경우에만 이 옵션을 사용하십시오. (문제를 방지하려면). [기본값은 False]입니다. 
+        StealhModeServer = true,
+        -- 스텔스 모드를 켜거나 끕니다. 만약, 끈다면 기본 게임의 시스템만을 사용합니다. [기본값은 켬].
+        StealhModeEnable = true,
+        -- 스텔스를 무들로 표시할지 설정합니다. (스텔스 모드가 켜진 상태에서만 동작합니다!) [기본값은 켬]. 
+        MoodleEnable = false,
+        -- 차량 밑으로 기어갈수 있도록 설정합니다.(반드시 기어가기 상태이어야 합니다!) [기본값은 켬, 기본 키는 Shift]. 
+        CrawlUnderVehiclesEnable = true,
+        -- 현실적인 지구력 모드를 토글합니다. 이 모드는 크롤링할 수 있는 양을 제한하여 게임 몰입도를 향상시킵니다. [기본값은 참입니다]. 
+        RealisticEndurance = true,
+        -- 좀비에게 발각되는 경우 자동적으로 기어가기 자세에서 벗어납니다. [기본값은 끔]. 
+        CancelCrawlWhenSpotted = false,
+        -- 이 수치는 플레이어가 기어가기 상태에서 좀비의 시야범위를 나타냅니다. 1(매우 작음) 에서 20(매우 멀음)사이의 값으로 조정할 수 있습니다. 기본값은 5 (중간 범위)입니다. 개인적인 추천은 좀 더 몰입감있는 게임플레이를 위해 5-10 사이의 값으로 설정하는 것입니다. 최소 =1 최대 =20 기본 =5
+        ZombieRadius = 2,
+    },
+    UnderCoverOfDarkness = {
+        -- 일반 조건에서 설정된 좀비 시야 수준. 기본값=보통
+        -- 1 = 매우 높음
+        -- 2 = 보통
+        NormalZombieSight = 2,
+        -- 밤이나 안개가 낀 상황에서 설정된 좀비 시야 수준. 기본값=낮음
+        -- 1 = 매우 높음
+        -- 2 = 보통
+        ReducedZombieSight = 3,
+        -- 좀비 시야를 감소시키기 위한 최소 어둠 수준. 기본값=완전 어두움
+        -- 1 = 약한 빛
+        -- 2 = 어두움
+        MinimumDarknessLevel = 3,
+        -- 좀비 시야를 감소시키기 위한 최소 안개 강도. 최소 =0.00 최대 =1.00 기본 =0.10
+        MinimumFogIntensity = 0.1,
+    },
+    VehicleRecycling = {
+        -- 차량을 해체하기 전에 후드, 트렁크 문, 문, 창문, 좌석 등의 부품을 제거해야 할지 설정.
+        UninstallParts = false,
+        -- 최소 =1 최대 =100 기본 =1
+        ActionTimeMultiplier = 1,
+    },
+    VehicleRepairOverhaul = {
+        DisableVehicleSalvage = true,
+    },
+    WhereAmI = {
+        -- 활성화하면 플레이어가 알려진 지역 밖에 있을 때 지역 표시가 전혀 나타나지 않습니다.
+        HideUIOffRegion = false,
+    },
+    wyweight = {
+        -- For every 100 of these values, add 158 weights 최소 =0 최대 =1000 기본 =0
+        extraweight = 2,
     },
     addMecanicSound = {
         -- This figure corresponds to the multiplier of the action time which is added to the activity of the mechanics. Knowing that the higher your level in mechanics, the more the action time will be reduced.
@@ -4618,6 +5123,32 @@ SandboxVars = {
         -- Disable player from waking up during Gun Shots.
         disableWakingUp = true,
     },
+    FancyHandwork = {
+        -- 전술 조준 애니메이션으로 변경되는 플레이어 총기 레벨. <LINE> 0으로 설정하면 항상 사용합니다. 11로 설정하면 절대 사용하지 않습니다. 최소 =0 최대 =11 기본 =3
+        ExperiencedAim = 3,
+        -- 캐릭터가 이동하지 않을 때, 상호작용 중인 물체를 향해 이 시간만큼 후에 회전합니다. <LINE> 전환 지연이 활성화되어야 합니다. 최소 =0.01 최대 =60.00 기본 =1.00
+        TurnDelaySec = 1.0,
+        -- 세계 상호작용을 수행할 때 캐릭터가 물체를 향해 강제로 돌도록 설정합니다. 기본값=전환 지연 후 강제 전환
+        -- 1 = 강제 전환하지 않음
+        -- 2 = 전환 지연 후 강제 전환
+        DisableTurn = 2,
+        -- 캐릭터가 회전 대신 후면 애니메이션을 얼마나 자주 재생할지 선택합니다. <LINE> 참고: 후면 애니메이션이 없는 물체를 향해 캐릭터는 여전히 회전합니다. '항상 강제 전환' 설정은 후면 애니메이션을 방지합니다. 기본값=전환 지연까지 후면 애니메이션 재생
+        -- 1 = 후면 애니메이션을 절대 재생하지 않음
+        -- 2 = 전환 지연까지 후면 애니메이션 재생
+        TurnBehavior = 2,
+        -- 캐릭터가 문을 열거나 닫을 때, 그리고 차량에 탑승하거나 하차할 때 진행 바를 숨깁니다.
+        HideDoorProgressBar = false,
+        -- 캐릭터가 차량과 상호작용하기 위해 위치로 걷는 동안 진행 바를 숨깁니다.
+        HideVehicleWalkProgressBar = false,
+    },
+    BrutalHandwork = {
+        -- 플레이어가 근접 무기를 이중으로 사용할 때, 자동으로 왼쪽과 오른쪽 공격을 번갈아 사용합니다. 비활성화하면 보조 공격을 위해 수정 키를 눌러야 합니다.
+        DualWieldMelee = true,
+        -- 플레이어가 무장하지 않았더라도 공격할 수 있습니다. 기본적으로 조준하고 수정 키를 누르고 있어야 주먹질할 수 있습니다.
+        EnableUnarmed = true,
+        -- 플레이어가 무장하지 않았을 때, 항상 주먹을 들게 합니다. 비활성화하면 조준 시 수정 키를 눌러야 합니다.
+        AlwaysUnarmed = true,
+    },
     Bandits = {
         General_KillCounter = true,
         General_DensityScore = true,
@@ -4662,13 +5193,13 @@ SandboxVars = {
         General_DefenderSpawnHourlyChanced = 0.05,
         -- 최소 =0.00 최대 =100.00 기본 =0.30
         General_BaseSpawnHourlyChance = 0.05,
-        -- 기본값=보통
-        -- 1 = 없음
-        -- 2 = 미친듯이 적음
-        -- 3 = 매우 적음
-        -- 4 = 적음
-        -- 5 = 보통
-        -- 6 = 많음
+        -- 기본값=보통 (loot x 1.0)
+        -- 1 = 없음 (loot x 0)
+        -- 2 = 미친듯이 적음 (loot x 0.05)
+        -- 3 = 매우 적음 (loot x 0.2)
+        -- 4 = 적음 (loot x 0.6)
+        -- 5 = 보통 (loot x 1.0)
+        -- 6 = 많음 (loot x 2.0)
         General_DefenderLootAmount = 7,
         Clan_1_WaveEnabled = true,
         -- 밴딧이 플레이어에게 우호적일 확률. 최소 =0 최대 =100 기본 =50
@@ -5405,7 +5936,7 @@ SandboxVars = {
         -- 전 세계에 존재하는 똑똑한 좀비의 백분율입니다. 이 좀비들은 문을 열고 더 많은 것들을 할 수 있습니다. 최소 =0.00 최대 =100.00 기본 =0.00
         Smart = 0.0,
         -- [고급 설정] 두 업데이트 사이의 간격(밀리초)입니다. 숫자가 클수록 CPU 사용량이 적으며 숫자가 작을수록 정확성 문제가 적습니다. 최소 =1000 최대 =60000 기본 =7500
-        Frequency = 1000,
+        Frequency = 60000,
     },
     NightSprinters = {
         -- 24시간 기준 최소 =0 최대 =23 기본 =23
@@ -5437,7 +5968,7 @@ SandboxVars = {
         -- 3 = 느린 걸음
         modifiedZombies = 1,
         -- 이것은 좀비의 속도 이상으로 수정된 좀비 속성의 사용을 가능하게 합니다.
-        enhancedZombies = false,
+        enhancedZombies = true,
         -- 활성화되면 좀비가 야간에 문을 열 수 있습니다.
         ZombiesCognition = false,
         -- 주간의 좀비 체력입니다. 기본값=보통
