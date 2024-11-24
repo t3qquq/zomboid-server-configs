@@ -517,7 +517,7 @@ SandboxVars = {
     -- 선택하면 탈출 이벤트가 진행되는 동안 탈출 지점 근처에 있어야 합니다.
     WQS_ConfinedMode_opt = true,
     -- 선택하면 시작 시 퀘스트가 활성화되지 않으며 안테나를 건설한 후에만 시작할 수 있습니다.
-    WQS_GameModeExtended_opt = true,
+    WQS_GameModeExtended_opt = false,
     -- 탈출 지역 선택 기본값=랜덤
     -- 1 = 랜덤
     -- 2 = 루이빌 다리 도로
